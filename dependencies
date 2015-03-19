@@ -1,0 +1,2 @@
+part: 'pq-gcc',    branch: '4.9.1'
+part: 'pq-curl',   branch: '7.41.0'
